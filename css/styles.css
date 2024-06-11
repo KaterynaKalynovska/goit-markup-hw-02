@@ -99,15 +99,14 @@ address {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+    background-color: #4D5AE5
 }
 
 .main-button:hover {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background-color: #404bbf;
 }
 
 .main-button:focus {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background-color: #404bbf;
 }
 
@@ -222,7 +221,7 @@ address {
 }
 
 .footer-logo {
-    font-family: "Raleway", sans-serif
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -233,6 +232,10 @@ address {
 
 .footer-logo span {
     color: #f4f4fd;
+}
+
+.footer-logo-studio {
+
 }
 
 .footer-text {
